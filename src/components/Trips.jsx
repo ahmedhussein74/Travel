@@ -1,6 +1,6 @@
-import sydeny from "../images/sydeny.svg";
-import vegan from "../images/vegan.svg";
-import mountain from "../images/mountain.svg";
+import sydeny from "../images/sydeny.png";
+import vegan from "../images/vegan.png";
+import mountain from "../images/mountain.png";
 
 const Trips = () => {
   const hotels = [

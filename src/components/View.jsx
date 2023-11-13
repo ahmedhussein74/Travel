@@ -1,4 +1,4 @@
-import bg from '../images/view.svg'
+import bg from '../images/view.png'
 
 const View = () => {
   return (

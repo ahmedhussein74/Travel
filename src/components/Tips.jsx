@@ -1,5 +1,3 @@
-import React from "react";
-
 const Tips = () => {
   return (
     <section className="w-[90%] md:w-[80%] mt-[-37px] mx-auto p-[15px] flex-col md:flex-row flex flex-wrap justify-center gap-[15px] rounded-lg shadow-lg bg-white">

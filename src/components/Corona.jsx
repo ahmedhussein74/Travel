@@ -1,5 +1,3 @@
-import React from "react";
-
 const Corona = () => {
   return (
     <section className="w-[90%] py-[15px] px-[10px] mt-[30px] mx-auto bg-[#FCEFCA] rounded-lg shadow text-center md:text-start">

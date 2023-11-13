@@ -1,7 +1,7 @@
-import lakeside from "../images/lakeside.svg";
-import oculous from "../images/oculous.svg";
-import recce from "../images/recce.svg";
-import fireside from "../images/fireside.svg";
+import lakeside from "../images/lakeside.png";
+import oculous from "../images/oculous.png";
+import recce from "../images/recce.png";
+import fireside from "../images/fireside.png";
 
 const Hotels = () => {
   const countries = [

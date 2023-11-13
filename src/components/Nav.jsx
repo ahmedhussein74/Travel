@@ -34,33 +34,33 @@ const Nav = () => {
         <NavLink
           to="/"
           onClick={changeHeight}
-          className="h-[60px] lg:h-fit w-full lg:w-fit px-3 lg:px-0"
+          className="h-[60px] lg:h-fit w-full lg:w-fit px-3 lg:px-0 font-bold text-[18px] text-[#2F80ED]"
         >
           Home
         </NavLink>
         <NavLink
-          to="/discover"
+          to="/"
           onClick={changeHeight}
           className="h-[60px] lg:h-fit w-full lg:w-fit px-3 lg:px-0"
         >
           Discover
         </NavLink>
         <NavLink
-          to="/actvities"
+          to="/"
           onClick={changeHeight}
           className="h-[60px] lg:h-fit w-full lg:w-fit px-3 lg:px-0"
         >
           Actvities
         </NavLink>
         <NavLink
-          to="/about"
+          to="/"
           onClick={changeHeight}
           className="h-[60px] lg:h-fit w-full lg:w-fit px-3 lg:px-0"
         >
           About
         </NavLink>
         <NavLink
-          to="/contact"
+          to="/"
           onClick={changeHeight}
           className="h-[60px] lg:h-fit w-full lg:w-fit px-3 lg:px-0"
         >

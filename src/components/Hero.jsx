@@ -1,4 +1,4 @@
-import bg from "../images/bg.svg";
+import bg from "../images/bg.png";
 
 const Hero = () => {
   return (

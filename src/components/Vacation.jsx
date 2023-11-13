@@ -1,7 +1,7 @@
-import australia from "../images/australia.svg";
-import greece from "../images/greece.svg";
-import japan from "../images/japan.svg";
-import newZealand from "../images/newZealand.svg";
+import australia from "../images/australia.png";
+import greece from "../images/greece.png";
+import japan from "../images/japan.png";
+import newZealand from "../images/newZealand.png";
 
 const Vacation = () => {
   const countries = [
